@@ -21,7 +21,7 @@ cd src
 Finally, you can open the *index.html* file in your browser.
 
 ## Deployment
-The project is deployed using **GitHub Pages**. You can view the page [at the link]()
+The project is deployed using **GitHub Pages**. You can view the page [at the link](https://dk872.github.io/frontend-lab1/)
 
 ## Author info
 Dmytro Kulyk, a student of group IM-32
