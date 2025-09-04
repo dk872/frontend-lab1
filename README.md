@@ -13,11 +13,6 @@ git clone https://github.com/dk872/frontend-lab1
 cd frontend-lab1
 ```
 
-Now go to the *src* directory:
-```
-cd src
-```
-
 Finally, you can open the *index.html* file in your browser.
 
 ## Deployment
